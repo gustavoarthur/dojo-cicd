@@ -1,3 +1,3 @@
 From public.ecr.aws/nuvme-devops/nginx:latest
 
-COPY Iindex.html /usr/share/nginx/html/index.html
+COPY index.html /usr/share/nginx/html/index.html
